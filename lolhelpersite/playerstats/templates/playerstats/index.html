@@ -1,0 +1,15 @@
+{% load static %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'playerstats/style.css' %}">
+
+<h1>{{ "Top 5 Players in NA1" }}</h1>
+
+{% if highest_rank_player_list %}
+    <ol>
+    {% for player in highest_rank_player_list %}
+    <li><a href="{% url 'playerstats:detail' player.puuid %}">{{ player.summonername }}</a>{{ player.leaguepoints }}</li>
+    {% endfor %}
+    </ol>
+{% else %}
+    <p>No data available.</p>
+{% endif %}

@@ -1,0 +1,1058 @@
+{
+  "1001":{
+    "name":"Boots of Speed",
+    "plaintext":"Slightly increases Movement Speed"
+  },
+  "1004":{
+    "name":"Faerie Charm",
+    "plaintext":"Slightly increases Mana Regen"
+  },
+  "1006":{
+    "name":"Rejuvenation Bead",
+    "plaintext":"Slightly increases Health Regen"
+  },
+  "1011":{
+    "name":"Giant's Belt",
+    "plaintext":"Greatly increases Health"
+  },
+  "1018":{
+    "name":"Cloak of Agility",
+    "plaintext":"Increases critical strike chance"
+  },
+  "1026":{
+    "name":"Blasting Wand",
+    "plaintext":"Moderately increases Ability Power"
+  },
+  "1027":{
+    "name":"Sapphire Crystal",
+    "plaintext":"Increases Mana"
+  },
+  "1028":{
+    "name":"Ruby Crystal",
+    "plaintext":"Increases Health"
+  },
+  "1029":{
+    "name":"Cloth Armor",
+    "plaintext":"Slightly increases Armor"
+  },
+  "1031":{
+    "name":"Chain Vest",
+    "plaintext":"Greatly increases Armor"
+  },
+  "1033":{
+    "name":"Null-Magic Mantle",
+    "plaintext":"Slightly increases Magic Resist"
+  },
+  "1036":{
+    "name":"Long Sword",
+    "plaintext":"Slightly increases Attack Damage"
+  },
+  "1037":{
+    "name":"Pickaxe",
+    "plaintext":"Moderately increases Attack Damage"
+  },
+  "1038":{
+    "name":"B. F. Sword",
+    "plaintext":"Greatly increases Attack Damage"
+  },
+  "1039":{
+    "name":"Hunter's Talisman",
+    "plaintext":"Provides damage against Monsters and Mana Regen in the Jungle"
+  },
+  "1041":{
+    "name":"Hunter's Machete",
+    "plaintext":"Provides damage and life steal versus Monsters"
+  },
+  "1042":{
+    "name":"Dagger",
+    "plaintext":"Slightly increases Attack Speed"
+  },
+  "1043":{
+    "name":"Recurve Bow",
+    "plaintext":"Greatly increases Attack Speed"
+  },
+  "1052":{
+    "name":"Amplifying Tome",
+    "plaintext":"Slightly increases Ability Power"
+  },
+  "1053":{
+    "name":"Vampiric Scepter",
+    "plaintext":"Basic attacks restore Health"
+  },
+  "1054":{
+    "name":"Doran's Shield",
+    "plaintext":"Good defensive starting item"
+  },
+  "1055":{
+    "name":"Doran's Blade",
+    "plaintext":"Good starting item for attackers"
+  },
+  "1056":{
+    "name":"Doran's Ring",
+    "plaintext":"Good starting item for casters"
+  },
+  "1057":{
+    "name":"Negatron Cloak",
+    "plaintext":"Moderately increases Magic Resist"
+  },
+  "1058":{
+    "name":"Needlessly Large Rod",
+    "plaintext":"Greatly increases Ability Power"
+  },
+  "1082":{
+    "name":"Dark Seal",
+    "plaintext":"Provides Ability Power and Mana.  Increases in power as you kill enemies."
+  },
+  "1083":{
+    "name":"Cull",
+    "plaintext":"Provides damage and Life Steal on hit - Killing minions grant bonus Gold"
+  },
+  "1400":{
+    "name":"Enchantment: Warrior",
+    "plaintext":"Grants Attack Damage and Cooldown Reduction"
+  },
+  "1401":{
+    "name":"Enchantment: Cinderhulk",
+    "plaintext":"Grants Health and Immolate Aura"
+  },
+  "1402":{
+    "name":"Enchantment: Runic Echoes",
+    "plaintext":"Grants Ability Power and periodically empowers your Spells"
+  },
+  "1412":{
+    "name":"Enchantment: Warrior",
+    "plaintext":"Grants Attack Damage and Cooldown Reduction"
+  },
+  "1413":{
+    "name":"Enchantment: Cinderhulk",
+    "plaintext":"Grants Health and Immolate Aura"
+  },
+  "1414":{
+    "name":"Enchantment: Runic Echoes",
+    "plaintext":"Grants Ability Power and periodically empowers your Spells"
+  },
+  "1416":{
+    "name":"Enchantment: Bloodrazor",
+    "plaintext":"Increases Attack Speed and deals damage based on the target's Health"
+  },
+  "1419":{
+    "name":"Enchantment: Bloodrazor",
+    "plaintext":"Increases Attack Speed and deals damage based on the target's Health"
+  },
+  "2003":{
+    "name":"Health Potion",
+    "plaintext":"Consume to restore Health over time"
+  },
+  "2006":{
+    "name":"Showdown Health Potion",
+    "plaintext":"Consume to restore Health over time"
+  },
+  "2009":{
+    "name":"Total Biscuit of Rejuvenation",
+    "plaintext":""
+  },
+  "2010":{
+    "name":"Total Biscuit of Everlasting Will",
+    "plaintext":""
+  },
+  "2015":{
+    "name":"Kircheis Shard",
+    "plaintext":"Attack speed and a chargable magic hit"
+  },
+  "2031":{
+    "name":"Refillable Potion",
+    "plaintext":"Restores Health over time. Refills at shop."
+  },
+  "2033":{
+    "name":"Corrupting Potion",
+    "plaintext":"Restores Health and Mana over time and boosts combat power - Refills at Shop"
+  },
+  "2047":{
+    "name":"Oracle's Extract",
+    "plaintext":"Allows champion to see invisible or unseen enemy units"
+  },
+  "2051":{
+    "name":"Guardian's Horn",
+    "plaintext":"Good starting item for tanks"
+  },
+  "2052":{
+    "name":"Poro-Snax",
+    "plaintext":""
+  },
+  "2054":{
+    "name":"Diet Poro-Snax",
+    "plaintext":""
+  },
+  "2055":{
+    "name":"Control Ward",
+    "plaintext":"Used to disable wards and invisible traps in an area."
+  },
+  "2065":{
+    "name":"Shurelya's Reverie",
+    "plaintext":"Activate to speed up nearby allies."
+  },
+  "2138":{
+    "name":"Elixir of Iron",
+    "plaintext":"Temporarily increases defenses. Leaves a trail for allies to follow."
+  },
+  "2139":{
+    "name":"Elixir of Sorcery",
+    "plaintext":"Temporarily grants Ability Power and Bonus Damage to champions and turrets."
+  },
+  "2140":{
+    "name":"Elixir of Wrath",
+    "plaintext":"Temporarily grants Attack Damage and heals you when dealing physical damage to champions."
+  },
+  "2403":{
+    "name":"Minion Dematerializer",
+    "plaintext":""
+  },
+  "2419":{
+    "name":"Commencing Stopwatch",
+    "plaintext":""
+  },
+  "2420":{
+    "name":"Stopwatch",
+    "plaintext":"Activate to become invincible but unable to take actions"
+  },
+  "2421":{
+    "name":"Broken Stopwatch",
+    "plaintext":"Upgrades to stopwatch"
+  },
+  "2422":{
+    "name":"Slightly Magical Boots",
+    "plaintext":"Slightly increases Movement Speed"
+  },
+  "2423":{
+    "name":"Perfectly Timed Stopwatch",
+    "plaintext":"Activate to become invincible but unable to take actions"
+  },
+  "2424":{
+    "name":"Broken Stopwatch",
+    "plaintext":""
+  },
+  "3001":{
+    "name":"Abyssal Mask",
+    "plaintext":"Nearby enemies take more magic damage"
+  },
+  "3003":{
+    "name":"Archangel's Staff",
+    "plaintext":"Increases Ability Power based on maximum Mana"
+  },
+  "3004":{
+    "name":"Manamune",
+    "plaintext":"Increases Attack Damage based on maximum Mana"
+  },
+  "3005":{
+    "name":"Atma's Reckoning",
+    "plaintext":"Increases Attack Damage based on maximum Health"
+  },
+  "3006":{
+    "name":"Berserker's Greaves",
+    "plaintext":"Enhances Movement Speed and Attack Speed"
+  },
+  "3007":{
+    "name":"Archangel's Staff (Quick Charge)",
+    "plaintext":"Increases Ability Power based on maximum Mana"
+  },
+  "3008":{
+    "name":"Manamune (Quick Charge)",
+    "plaintext":"Increases Attack Damage based on maximum Mana"
+  },
+  "3009":{
+    "name":"Boots of Swiftness",
+    "plaintext":"Enhances Movement Speed and reduces the effect of slows"
+  },
+  "3010":{
+    "name":"Catalyst of Aeons",
+    "plaintext":"Spend Mana to recover Health"
+  },
+  "3020":{
+    "name":"Sorcerer's Shoes",
+    "plaintext":"Enhances Movement Speed and magic damage"
+  },
+  "3022":{
+    "name":"Frozen Mallet",
+    "plaintext":"Basic attacks slow enemies"
+  },
+  "3024":{
+    "name":"Glacial Shroud",
+    "plaintext":"Increases Armor and Cooldown Reduction"
+  },
+  "3025":{
+    "name":"Iceborn Gauntlet",
+    "plaintext":"Basic attacks create a slow field after spell cast"
+  },
+  "3026":{
+    "name":"Guardian Angel",
+    "plaintext":"Periodically revives champion upon death"
+  },
+  "3027":{
+    "name":"Rod of Ages",
+    "plaintext":"Greatly increases Health, Mana, and Ability Power"
+  },
+  "3028":{
+    "name":"Chalice of Harmony",
+    "plaintext":"Increases Mana and Health Regeneration"
+  },
+  "3029":{
+    "name":"Rod of Ages (Quick Charge)",
+    "plaintext":"Greatly increases Health, Mana, and Ability Power"
+  },
+  "3030":{
+    "name":"Hextech GLP-800",
+    "plaintext":"Activate to fire icy bolts to slow enemies"
+  },
+  "3031":{
+    "name":"Infinity Edge",
+    "plaintext":"Massively enhances critical strikes"
+  },
+  "3033":{
+    "name":"Mortal Reminder",
+    "plaintext":"Overcomes enemies with high Health recovery and Armor"
+  },
+  "3035":{
+    "name":"Last Whisper",
+    "plaintext":"Overcomes enemies with high Armor"
+  },
+  "3036":{
+    "name":"Lord Dominik's Regards",
+    "plaintext":"Overcomes enemies with high health and armor"
+  },
+  "3040":{
+    "name":"Seraph's Embrace",
+    "plaintext":""
+  },
+  "3041":{
+    "name":"Mejai's Soulstealer",
+    "plaintext":"Grants Ability Power for kills and assists"
+  },
+  "3042":{
+    "name":"Muramana",
+    "plaintext":""
+  },
+  "3043":{
+    "name":"Muramana",
+    "plaintext":""
+  },
+  "3044":{
+    "name":"Phage",
+    "plaintext":"Attacks and kills give a small burst of speed"
+  },
+  "3046":{
+    "name":"Phantom Dancer",
+    "plaintext":"Move faster while attacking enemies and gain a shield when on low health."
+  },
+  "3047":{
+    "name":"Ninja Tabi",
+    "plaintext":"Enhances Movement Speed and reduces incoming basic attack damage"
+  },
+  "3048":{
+    "name":"Seraph's Embrace",
+    "plaintext":""
+  },
+  "3050":{
+    "name":"Zeke's Convergence",
+    "plaintext":"Grants you and your ally bonuses when you cast your ultimate."
+  },
+  "3052":{
+    "name":"Jaurim's Fist",
+    "plaintext":"Attack Damage and stacking Health on Unit Kill"
+  },
+  "3053":{
+    "name":"Sterak's Gage",
+    "plaintext":"Shields against large bursts of damage"
+  },
+  "3057":{
+    "name":"Sheen",
+    "plaintext":"Grants a bonus to next attack after spell cast"
+  },
+  "3065":{
+    "name":"Spirit Visage",
+    "plaintext":"Increases Health and healing effects"
+  },
+  "3067":{
+    "name":"Kindlegem",
+    "plaintext":"Increases Health and Cooldown Reduction"
+  },
+  "3068":{
+    "name":"Sunfire Cape",
+    "plaintext":"Constantly deals damage to nearby enemies"
+  },
+  "3070":{
+    "name":"Tear of the Goddess",
+    "plaintext":"Increases maximum Mana as Mana is spent"
+  },
+  "3071":{
+    "name":"Black Cleaver",
+    "plaintext":"Dealing physical damage to enemy champions reduces their Armor"
+  },
+  "3072":{
+    "name":"Bloodthirster",
+    "plaintext":"Grants Attack Damage, Life Steal and Life Steal now overheals"
+  },
+  "3073":{
+    "name":"Tear of the Goddess (Quick Charge)",
+    "plaintext":"Increases maximum Mana as Mana is spent"
+  },
+  "3074":{
+    "name":"Ravenous Hydra",
+    "plaintext":"Melee attacks hit nearby enemies, dealing damage and restoring Health"
+  },
+  "3075":{
+    "name":"Thornmail",
+    "plaintext":"Returns damage taken from basic attacks as magic damage"
+  },
+  "3076":{
+    "name":"Bramble Vest",
+    "plaintext":"Prevents enemies from using Life Steal against you."
+  },
+  "3077":{
+    "name":"Tiamat",
+    "plaintext":"Melee attacks hit nearby enemies"
+  },
+  "3078":{
+    "name":"Trinity Force",
+    "plaintext":"Tons of Damage"
+  },
+  "3082":{
+    "name":"Warden's Mail",
+    "plaintext":"Slows Attack Speed of enemy champions when receiving basic attacks"
+  },
+  "3083":{
+    "name":"Warmog's Armor",
+    "plaintext":"Grants massive Health and Health Regen"
+  },
+  "3084":{
+    "name":"Overlord's Bloodmail",
+    "plaintext":"Restores Health on kill or assist"
+  },
+  "3085":{
+    "name":"Runaan's Hurricane",
+    "plaintext":"Ranged attacks fire two bolts at nearby enemies"
+  },
+  "3086":{
+    "name":"Zeal",
+    "plaintext":"Slight bonuses to Critical Strike Chance, Movement Speed and Attack Speed"
+  },
+  "3087":{
+    "name":"Statikk Shiv",
+    "plaintext":"Movement builds charges that release chain lightning on basic attack"
+  },
+  "3089":{
+    "name":"Rabadon's Deathcap",
+    "plaintext":"Massively increases Ability Power"
+  },
+  "3091":{
+    "name":"Wit's End",
+    "plaintext":"Resist magic damage and claw your way back to life."
+  },
+  "3094":{
+    "name":"Rapid Firecannon",
+    "plaintext":"Movement builds charges that release a sieging fire attack on release"
+  },
+  "3095":{
+    "name":"Stormrazor",
+    "plaintext":"Tremendously empower other Energized effects."
+  },
+  "3100":{
+    "name":"Lich Bane",
+    "plaintext":"Grants a bonus to next attack after spell cast"
+  },
+  "3101":{
+    "name":"Stinger",
+    "plaintext":"Increased Attack Speed and Cooldown Reduction"
+  },
+  "3102":{
+    "name":"Banshee's Veil",
+    "plaintext":"Periodically blocks enemy abilities"
+  },
+  "3105":{
+    "name":"Aegis of the Legion",
+    "plaintext":"Grants Armor and Magic Resistance"
+  },
+  "3107":{
+    "name":"Redemption",
+    "plaintext":"Activate to heal allies and damage enemies in an area"
+  },
+  "3108":{
+    "name":"Fiendish Codex",
+    "plaintext":"Increases Ability Power and Cooldown Reduction"
+  },
+  "3109":{
+    "name":"Knight's Vow",
+    "plaintext":"Partner with an ally to protect each other"
+  },
+  "3110":{
+    "name":"Frozen Heart",
+    "plaintext":"Massively increases Armor and slows enemy basic attacks"
+  },
+  "3111":{
+    "name":"Mercury's Treads",
+    "plaintext":"Increases Movement Speed and reduces duration of disabling effects"
+  },
+  "3112":{
+    "name":"Guardian's Orb",
+    "plaintext":"Good starting item for mages"
+  },
+  "3113":{
+    "name":"Aether Wisp",
+    "plaintext":"Increases Ability Power and Movement Speed"
+  },
+  "3114":{
+    "name":"Forbidden Idol",
+    "plaintext":"Increases Heal and Shield Power, Mana Regeneration, and Cooldown Reduction"
+  },
+  "3115":{
+    "name":"Nashor's Tooth",
+    "plaintext":"Increases Attack Speed, Ability Power, and Cooldown Reduction"
+  },
+  "3116":{
+    "name":"Rylai's Crystal Scepter",
+    "plaintext":"Abilities slow enemies"
+  },
+  "3117":{
+    "name":"Boots of Mobility",
+    "plaintext":"Greatly enhances Movement Speed when out of combat"
+  },
+  "3123":{
+    "name":"Executioner's Calling",
+    "plaintext":"Overcomes enemies with high health gain"
+  },
+  "3124":{
+    "name":"Guinsoo's Rageblade",
+    "plaintext":"Increases Attack Speed, Armor Penetration, and Magic Penetration"
+  },
+  "3128":{
+    "name":"Deathfire Grasp",
+    "plaintext":"Activate to increase all magic damage dealt to an enemy champion"
+  },
+  "3131":{
+    "name":"Sword of the Divine",
+    "plaintext":"Activate to gain 100% Critical Strike Chance for a short duration"
+  },
+  "3133":{
+    "name":"Caulfield's Warhammer",
+    "plaintext":"Attack Damage and Cooldown Reduction"
+  },
+  "3134":{
+    "name":"Serrated Dirk",
+    "plaintext":"Increases Attack Damage and Lethality"
+  },
+  "3135":{
+    "name":"Void Staff",
+    "plaintext":"Increases magic damage"
+  },
+  "3136":{
+    "name":"Haunting Guise",
+    "plaintext":"Increases magic damage"
+  },
+  "3137":{
+    "name":"Dervish Blade",
+    "plaintext":"Activate to remove all debuffs and grant massive Movement Speed"
+  },
+  "3139":{
+    "name":"Mercurial Scimitar",
+    "plaintext":"Activate to remove all crowd control debuffs and grant massive Movement Speed"
+  },
+  "3140":{
+    "name":"Quicksilver Sash",
+    "plaintext":"Activate to remove all crowd control debuffs"
+  },
+  "3142":{
+    "name":"Youmuu's Ghostblade",
+    "plaintext":"Activate to greatly increase Movement Speed"
+  },
+  "3143":{
+    "name":"Randuin's Omen",
+    "plaintext":"Greatly increases defenses, activate to slow nearby enemies"
+  },
+  "3144":{
+    "name":"Bilgewater Cutlass",
+    "plaintext":"Activate to deal magic damage and slow target champion"
+  },
+  "3145":{
+    "name":"Hextech Revolver",
+    "plaintext":"Increases Ability Power. Deal bonus magic damage on attack periodically."
+  },
+  "3146":{
+    "name":"Hextech Gunblade",
+    "plaintext":"Increases Attack Damage and Ability Power, activate to slow a target"
+  },
+  "3147":{
+    "name":"Duskblade of Draktharr",
+    "plaintext":"Deals additional physical damage when ambushing enemies"
+  },
+  "3151":{
+    "name":"Liandry's Torment",
+    "plaintext":"Spell damage burns enemies for a portion of their Health"
+  },
+  "3152":{
+    "name":"Hextech Protobelt-01",
+    "plaintext":"Activate to dash forward and unleash a fiery explosion"
+  },
+  "3153":{
+    "name":"Blade of the Ruined King",
+    "plaintext":"Deals damage based on target's Health, can steal Movement Speed"
+  },
+  "3155":{
+    "name":"Hexdrinker",
+    "plaintext":"Increases Attack Damage and Magic Resist"
+  },
+  "3156":{
+    "name":"Maw of Malmortius",
+    "plaintext":"Grants bonus Attack Damage when Health is low"
+  },
+  "3157":{
+    "name":"Zhonya's Hourglass",
+    "plaintext":"Activate to become invincible but unable to take actions"
+  },
+  "3158":{
+    "name":"Ionian Boots of Lucidity",
+    "plaintext":"Increases Movement Speed and Cooldown Reduction"
+  },
+  "3161":{
+    "name":"Spear of Shojin",
+    "plaintext":"Reduce damage taken from champions by a flat amount. Attack while near multiple enemy champions to increase this amount for a short time."
+  },
+  "3165":{
+    "name":"Morellonomicon",
+    "plaintext":"Increases magic damage"
+  },
+  "3170":{
+    "name":"Moonflair Spellblade",
+    "plaintext":"Improves defense and reduces duration of disabling effects"
+  },
+  "3172":{
+    "name":"Zephyr",
+    "plaintext":"Mobility and Tenacity"
+  },
+  "3174":{
+    "name":"Athene's Unholy Grail",
+    "plaintext":"Deal damage to empower your heals and shields"
+  },
+  "3175":{
+    "name":"Head of Kha'Zix",
+    "plaintext":""
+  },
+  "3179":{
+    "name":"Umbral Glaive",
+    "plaintext":"Provides trap and ward detection periodically"
+  },
+  "3181":{
+    "name":"Sanguine Blade",
+    "plaintext":"When hunting lone enemy champions gain Attack Speed and Lethality"
+  },
+  "3184":{
+    "name":"Guardian's Hammer",
+    "plaintext":"Good starting item for attackers"
+  },
+  "3190":{
+    "name":"Locket of the Iron Solari",
+    "plaintext":"Activate to shield nearby allies from damage"
+  },
+  "3191":{
+    "name":"Seeker's Armguard",
+    "plaintext":"Increases Armor and Ability Power"
+  },
+  "3193":{
+    "name":"Gargoyle Stoneplate",
+    "plaintext":"Greatly increases defense near multiple enemies."
+  },
+  "3194":{
+    "name":"Adaptive Helm",
+    "plaintext":"Reduces damage from repeated spells and effects."
+  },
+  "3196":{
+    "name":"Hex Core mk-1",
+    "plaintext":"Allows Viktor to improve an ability of his choice"
+  },
+  "3197":{
+    "name":"Hex Core mk-2",
+    "plaintext":"Allows Viktor to improve an ability of his choice"
+  },
+  "3198":{
+    "name":"Perfect Hex Core",
+    "plaintext":"Allows Viktor to improve an ability of his choice"
+  },
+  "3200":{
+    "name":"Prototype Hex Core",
+    "plaintext":"Increases Ability Power and can be upgraded to improve Viktor's abilities"
+  },
+  "3211":{
+    "name":"Spectre's Cowl",
+    "plaintext":"Improves defense and grants regeneration upon being damaged"
+  },
+  "3222":{
+    "name":"Mikael's Crucible",
+    "plaintext":"Activate to remove all disabling effects from an allied champion"
+  },
+  "3285":{
+    "name":"Luden's Echo",
+    "plaintext":"Increases Ability Power, Mana, and Cooldown Reduction"
+  },
+  "3330":{
+    "name":"Scarecrow Effigy (Trinket)",
+    "plaintext":"Periodically place a Stealth Ward"
+  },
+  "3340":{
+    "name":"Warding Totem (Trinket)",
+    "plaintext":"Periodically place a Stealth Ward"
+  },
+  "3348":{
+    "name":"Arcane Sweeper",
+    "plaintext":"Activate to reveal a nearby area of the map"
+  },
+  "3361":{
+    "name":"Greater Stealth Totem (Trinket)",
+    "plaintext":"Periodically place a Stealth Ward"
+  },
+  "3362":{
+    "name":"Greater Vision Totem (Trinket)",
+    "plaintext":"Periodically place a Vision Ward"
+  },
+  "3363":{
+    "name":"Farsight Alteration",
+    "plaintext":"Grants increased range and reveals the targetted area"
+  },
+  "3364":{
+    "name":"Oracle Lens",
+    "plaintext":"Disables nearby invisible wards and traps for a duration"
+  },
+  "3371":{
+    "name":"Molten Edge",
+    "plaintext":"Massively enhances critical strikes"
+  },
+  "3373":{
+    "name":"Forgefire Cape",
+    "plaintext":"Constantly deals damage to nearby enemies"
+  },
+  "3374":{
+    "name":"Rabadon's Deathcrown",
+    "plaintext":"Massively increases Ability Power"
+  },
+  "3379":{
+    "name":"Infernal Mask",
+    "plaintext":"Nearby enemies take more magic damage"
+  },
+  "3380":{
+    "name":"Obsidian Cleaver",
+    "plaintext":"Dealing physical damage to enemy champions reduces their Armor"
+  },
+  "3382":{
+    "name":"Salvation",
+    "plaintext":"Activate to heal allies and damage enemies in an area"
+  },
+  "3383":{
+    "name":"Circlet of the Iron Solari",
+    "plaintext":"Activate to shield nearby allies from damage"
+  },
+  "3384":{
+    "name":"Trinity Fusion",
+    "plaintext":"Tons of Damage"
+  },
+  "3386":{
+    "name":"Zhonya's Paradox",
+    "plaintext":"Activate to become invincible but unable to take actions"
+  },
+  "3387":{
+    "name":"Frozen Fist",
+    "plaintext":"Basic attacks create a slow field after spell cast"
+  },
+  "3388":{
+    "name":"Youmuu's Wraithblade",
+    "plaintext":"Activate to greatly increase Movement Speed"
+  },
+  "3389":{
+    "name":"Might of the Ruined King",
+    "plaintext":"Deals damage based on target's Health, can steal Movement Speed"
+  },
+  "3390":{
+    "name":"Luden's Pulse",
+    "plaintext":"Increases Ability Power, Mana, and Cooldown Reduction"
+  },
+  "3400":{
+    "name":"'Your Cut'",
+    "plaintext":""
+  },
+  "3410":{
+    "name":"Head of Kha'Zix",
+    "plaintext":""
+  },
+  "3416":{
+    "name":"Head of Kha'Zix",
+    "plaintext":""
+  },
+  "3422":{
+    "name":"Head of Kha'Zix",
+    "plaintext":""
+  },
+  "3455":{
+    "name":"Head of Kha'Zix",
+    "plaintext":""
+  },
+  "3504":{
+    "name":"Ardent Censer",
+    "plaintext":"Shield and heal effects on other units grant both of you Attack Speed and their attacks deal additional on-hit magic damage."
+  },
+  "3508":{
+    "name":"Essence Reaver",
+    "plaintext":"Grants Critical Strike Chance, Cooldown Reduction, Attack Damage and restores mana on hit."
+  },
+  "3513":{
+    "name":"Eye of the Herald",
+    "plaintext":"Eye of the Herald - a Gift of the Void."
+  },
+  "3514":{
+    "name":"Eye of the Herald",
+    "plaintext":"Eye of the Herald - a Gift of the Void."
+  },
+  "3520":{
+    "name":"Ghost Poro",
+    "plaintext":""
+  },
+  "3599":{
+    "name":"Black Spear",
+    "plaintext":"Kalista's spear that binds an Oathsworn Ally."
+  },
+  "3600":{
+    "name":"Black Spear",
+    "plaintext":"Kalista's spear that binds an Oathsworn Ally."
+  },
+  "3671":{
+    "name":"Enchantment: Warrior",
+    "plaintext":""
+  },
+  "3672":{
+    "name":"Enchantment: Cinderhulk",
+    "plaintext":""
+  },
+  "3673":{
+    "name":"Enchantment: Runic Echoes",
+    "plaintext":""
+  },
+  "3675":{
+    "name":"Enchantment: Bloodrazor",
+    "plaintext":""
+  },
+  "3680":{
+    "name":"Frosted Snax",
+    "plaintext":"King: Fires a barrage of icy artillery"
+  },
+  "3681":{
+    "name":"Super Spicy Snax",
+    "plaintext":"King: Shoots flames that burn units and Turrets"
+  },
+  "3682":{
+    "name":"Espresso Snax",
+    "plaintext":"King: Knocks back and grants a large shield"
+  },
+  "3683":{
+    "name":"Rainbow Snax Party Pack!",
+    "plaintext":"King: Poros knock enemies towards him"
+  },
+  "3684":{
+    "name":"Dawnbringer Snax",
+    "plaintext":"King: Fires you at your target"
+  },
+  "3685":{
+    "name":"Nightbringer Snax",
+    "plaintext":"King: Summons tornadoes from behind, then fires them forward."
+  },
+  "3690":{
+    "name":"Cosmic Shackle",
+    "plaintext":""
+  },
+  "3691":{
+    "name":"Singularity Lantern",
+    "plaintext":""
+  },
+  "3692":{
+    "name":"Dark Matter Scythe",
+    "plaintext":""
+  },
+  "3693":{
+    "name":"Gravity Boots",
+    "plaintext":""
+  },
+  "3694":{
+    "name":"Cloak of Stars",
+    "plaintext":""
+  },
+  "3695":{
+    "name":"Dark Star Sigil",
+    "plaintext":""
+  },
+  "3706":{
+    "name":"Stalker's Blade",
+    "plaintext":"Lets your Smite slow Champions"
+  },
+  "3715":{
+    "name":"Skirmisher's Sabre",
+    "plaintext":"Lets your Smite mark Champions, giving you combat power against them."
+  },
+  "3742":{
+    "name":"Dead Man's Plate",
+    "plaintext":"Build momentum as you move around then smash into enemies."
+  },
+  "3748":{
+    "name":"Titanic Hydra",
+    "plaintext":"Deals area of effect damage based on owner's health"
+  },
+  "3751":{
+    "name":"Bami's Cinder",
+    "plaintext":"Grants Health and Immolate Aura"
+  },
+  "3800":{
+    "name":"Righteous Glory",
+    "plaintext":"Grants Health, Mana, and Armor. Activate to speed towards enemies and slow them."
+  },
+  "3801":{
+    "name":"Crystalline Bracer",
+    "plaintext":"Grants Health and Health Regen"
+  },
+  "3802":{
+    "name":"Lost Chapter",
+    "plaintext":"Restores Mana upon levelling up."
+  },
+  "3812":{
+    "name":"Death's Dance",
+    "plaintext":"Trades incoming damage now for incoming damage later"
+  },
+  "3814":{
+    "name":"Edge of Night",
+    "plaintext":"Periodically blocks enemy abilities"
+  },
+  "3850":{
+    "name":"Spellthief's Edge",
+    "plaintext":"Gain gold and upgrade by damaging enemy champions"
+  },
+  "3851":{
+    "name":"Frostfang",
+    "plaintext":""
+  },
+  "3853":{
+    "name":"Shard of True Ice",
+    "plaintext":""
+  },
+  "3854":{
+    "name":"Steel Shoulderguards",
+    "plaintext":"Gain gold and upgrade by executing minions alongside allies"
+  },
+  "3855":{
+    "name":"Runesteel Spaulders",
+    "plaintext":""
+  },
+  "3857":{
+    "name":"Pauldrons of Whiterock",
+    "plaintext":""
+  },
+  "3858":{
+    "name":"Relic Shield",
+    "plaintext":"Gain gold and upgrade by executing minions alongside allies"
+  },
+  "3859":{
+    "name":"Targon's Buckler",
+    "plaintext":""
+  },
+  "3860":{
+    "name":"Bulwark of the Mountain",
+    "plaintext":""
+  },
+  "3862":{
+    "name":"Spectral Sickle",
+    "plaintext":"Gain gold and upgrade by damaging enemy champions"
+  },
+  "3863":{
+    "name":"Harrowing Crescent",
+    "plaintext":""
+  },
+  "3864":{
+    "name":"Black Mist Scythe",
+    "plaintext":""
+  },
+  "3901":{
+    "name":"Fire at Will",
+    "plaintext":"Cannon Barrage gains extra waves"
+  },
+  "3902":{
+    "name":"Death's Daughter",
+    "plaintext":"Cannon Barrage fires a mega-cannonball"
+  },
+  "3903":{
+    "name":"Raise Morale",
+    "plaintext":"Cannon Barrage hastes allies"
+  },
+  "3905":{
+    "name":"Twin Shadows",
+    "plaintext":"Increases Ability Power and Movement Speed"
+  },
+  "3907":{
+    "name":"Spellbinder",
+    "plaintext":"Stores nearby spellcasts and can consume them to grant Movement Speed and Ability Power."
+  },
+  "3916":{
+    "name":"Oblivion Orb",
+    "plaintext":"Increases magic damage"
+  },
+  "4001":{
+    "name":"Ghostwalkers (Melee Only)",
+    "plaintext":"Enhances Movement Speed and grants temporary wall walking."
+  },
+  "4003":{
+    "name":"Lifeline",
+    "plaintext":"Marks the ground, and returns you there after a few moments"
+  },
+  "4004":{
+    "name":"Spectral Cutlass",
+    "plaintext":"Marks the ground, and returns you there after a few moments"
+  },
+  "4101":{
+    "name":"Pridestalker's Blade",
+    "plaintext":"Kill monsters faster"
+  },
+  "4102":{
+    "name":"Enchantment: Warrior",
+    "plaintext":"Tons of Damage"
+  },
+  "4103":{
+    "name":"Enchantment: Cinderhulk",
+    "plaintext":"Increases bonus Health and burns nearby enemies"
+  },
+  "4104":{
+    "name":"Enchantment: Runic Echoes",
+    "plaintext":"Spells explode for bonus damage"
+  },
+  "4105":{
+    "name":"Enchantment: Bloodrazor",
+    "plaintext":"Attacks deal bonus damage based on the target's maximum Health"
+  },
+  "4201":{
+    "name":"Doran's Lost Shield",
+    "plaintext":"Good defensive starting item"
+  },
+  "4202":{
+    "name":"Doran's Lost Blade",
+    "plaintext":"Good starting item for attackers"
+  },
+  "4203":{
+    "name":"Doran's Lost Ring",
+    "plaintext":"Good starting item for casters"
+  },
+  "4204":{
+    "name":"Doran's Lost Idol",
+    "plaintext":"Good starting item for Enchanters"
+  },
+  "4401":{
+    "name":"Force of Nature",
+    "plaintext":"Movement Speed, Magic Resist, and max Health Regeneration"
+  },
+  "4402":{
+    "name":"Innervating Locket",
+    "plaintext":"Cast spells to heal"
+  },
+  "4403":{
+    "name":"The Golden Spatula",
+    "plaintext":"It does EVERYTHING!"
+  }
+}

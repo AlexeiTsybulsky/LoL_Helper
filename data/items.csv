@@ -1,0 +1,265 @@
+itemId|name|plaintext
+1001|Boots of Speed|Slightly increases Movement Speed
+1004|Faerie Charm|Slightly increases Mana Regen
+1006|Rejuvenation Bead|Slightly increases Health Regen
+1011|Giant's Belt|Greatly increases Health
+1018|Cloak of Agility|Increases critical strike chance
+1026|Blasting Wand|Moderately increases Ability Power
+1027|Sapphire Crystal|Increases Mana
+1028|Ruby Crystal|Increases Health
+1029|Cloth Armor|Slightly increases Armor
+1031|Chain Vest|Greatly increases Armor
+1033|Null-Magic Mantle|Slightly increases Magic Resist
+1036|Long Sword|Slightly increases Attack Damage
+1037|Pickaxe|Moderately increases Attack Damage
+1038|B. F. Sword|Greatly increases Attack Damage
+1039|Hunter's Talisman|Provides damage against Monsters and Mana Regen in the Jungle
+1041|Hunter's Machete|Provides damage and life steal versus Monsters
+1042|Dagger|Slightly increases Attack Speed
+1043|Recurve Bow|Greatly increases Attack Speed
+1052|Amplifying Tome|Slightly increases Ability Power
+1053|Vampiric Scepter|Basic attacks restore Health
+1054|Doran's Shield|Good defensive starting item
+1055|Doran's Blade|Good starting item for attackers
+1056|Doran's Ring|Good starting item for casters
+1057|Negatron Cloak|Moderately increases Magic Resist
+1058|Needlessly Large Rod|Greatly increases Ability Power
+1082|Dark Seal|Provides Ability Power and Mana.  Increases in power as you kill enemies.
+1083|Cull|Provides damage and Life Steal on hit - Killing minions grant bonus Gold
+1400|Enchantment: Warrior|Grants Attack Damage and Cooldown Reduction
+1401|Enchantment: Cinderhulk|Grants Health and Immolate Aura
+1402|Enchantment: Runic Echoes|Grants Ability Power and periodically empowers your Spells
+1412|Enchantment: Warrior|Grants Attack Damage and Cooldown Reduction
+1413|Enchantment: Cinderhulk|Grants Health and Immolate Aura
+1414|Enchantment: Runic Echoes|Grants Ability Power and periodically empowers your Spells
+1416|Enchantment: Bloodrazor|Increases Attack Speed and deals damage based on the target's Health
+1419|Enchantment: Bloodrazor|Increases Attack Speed and deals damage based on the target's Health
+2003|Health Potion|Consume to restore Health over time
+2006|Showdown Health Potion|Consume to restore Health over time
+2009|Total Biscuit of Rejuvenation|
+2010|Total Biscuit of Everlasting Will|
+2015|Kircheis Shard|Attack speed and a chargable magic hit
+2031|Refillable Potion|Restores Health over time. Refills at shop.
+2033|Corrupting Potion|Restores Health and Mana over time and boosts combat power - Refills at Shop
+2047|Oracle's Extract|Allows champion to see invisible or unseen enemy units
+2051|Guardian's Horn|Good starting item for tanks
+2052|Poro-Snax|
+2054|Diet Poro-Snax|
+2055|Control Ward|Used to disable wards and invisible traps in an area.
+2065|Shurelya's Reverie|Activate to speed up nearby allies.
+2138|Elixir of Iron|Temporarily increases defenses. Leaves a trail for allies to follow.
+2139|Elixir of Sorcery|Temporarily grants Ability Power and Bonus Damage to champions and turrets.
+2140|Elixir of Wrath|Temporarily grants Attack Damage and heals you when dealing physical damage to champions.
+2403|Minion Dematerializer|
+2419|Commencing Stopwatch|
+2420|Stopwatch|Activate to become invincible but unable to take actions
+2421|Broken Stopwatch|Upgrades to stopwatch
+2422|Slightly Magical Boots|Slightly increases Movement Speed
+2423|Perfectly Timed Stopwatch|Activate to become invincible but unable to take actions
+2424|Broken Stopwatch|
+3001|Abyssal Mask|Nearby enemies take more magic damage
+3003|Archangel's Staff|Increases Ability Power based on maximum Mana
+3004|Manamune|Increases Attack Damage based on maximum Mana
+3005|Atma's Reckoning|Increases Attack Damage based on maximum Health
+3006|Berserker's Greaves|Enhances Movement Speed and Attack Speed
+3007|Archangel's Staff (Quick Charge)|Increases Ability Power based on maximum Mana
+3008|Manamune (Quick Charge)|Increases Attack Damage based on maximum Mana
+3009|Boots of Swiftness|Enhances Movement Speed and reduces the effect of slows
+3010|Catalyst of Aeons|Spend Mana to recover Health
+3020|Sorcerer's Shoes|Enhances Movement Speed and magic damage
+3022|Frozen Mallet|Basic attacks slow enemies
+3024|Glacial Shroud|Increases Armor and Cooldown Reduction
+3025|Iceborn Gauntlet|Basic attacks create a slow field after spell cast
+3026|Guardian Angel|Periodically revives champion upon death
+3027|Rod of Ages|Greatly increases Health, Mana, and Ability Power
+3028|Chalice of Harmony|Increases Mana and Health Regeneration
+3029|Rod of Ages (Quick Charge)|Greatly increases Health, Mana, and Ability Power
+3030|Hextech GLP-800|Activate to fire icy bolts to slow enemies
+3031|Infinity Edge|Massively enhances critical strikes
+3033|Mortal Reminder|Overcomes enemies with high Health recovery and Armor
+3035|Last Whisper|Overcomes enemies with high Armor
+3036|Lord Dominik's Regards|Overcomes enemies with high health and armor
+3040|Seraph's Embrace|
+3041|Mejai's Soulstealer|Grants Ability Power for kills and assists
+3042|Muramana|
+3043|Muramana|
+3044|Phage|Attacks and kills give a small burst of speed
+3046|Phantom Dancer|Move faster while attacking enemies and gain a shield when on low health.
+3047|Ninja Tabi|Enhances Movement Speed and reduces incoming basic attack damage
+3048|Seraph's Embrace|
+3050|Zeke's Convergence|Grants you and your ally bonuses when you cast your ultimate.
+3052|Jaurim's Fist|Attack Damage and stacking Health on Unit Kill
+3053|Sterak's Gage|Shields against large bursts of damage
+3057|Sheen|Grants a bonus to next attack after spell cast
+3065|Spirit Visage|Increases Health and healing effects
+3067|Kindlegem|Increases Health and Cooldown Reduction
+3068|Sunfire Cape|Constantly deals damage to nearby enemies
+3070|Tear of the Goddess|Increases maximum Mana as Mana is spent
+3071|Black Cleaver|Dealing physical damage to enemy champions reduces their Armor
+3072|Bloodthirster|Grants Attack Damage, Life Steal and Life Steal now overheals
+3073|Tear of the Goddess (Quick Charge)|Increases maximum Mana as Mana is spent
+3074|Ravenous Hydra|Melee attacks hit nearby enemies, dealing damage and restoring Health
+3075|Thornmail|Returns damage taken from basic attacks as magic damage
+3076|Bramble Vest|Prevents enemies from using Life Steal against you.
+3077|Tiamat|Melee attacks hit nearby enemies
+3078|Trinity Force|Tons of Damage
+3082|Warden's Mail|Slows Attack Speed of enemy champions when receiving basic attacks
+3083|Warmog's Armor|Grants massive Health and Health Regen
+3084|Overlord's Bloodmail|Restores Health on kill or assist
+3085|Runaan's Hurricane|Ranged attacks fire two bolts at nearby enemies
+3086|Zeal|Slight bonuses to Critical Strike Chance, Movement Speed and Attack Speed
+3087|Statikk Shiv|Movement builds charges that release chain lightning on basic attack
+3089|Rabadon's Deathcap|Massively increases Ability Power
+3091|Wit's End|Resist magic damage and claw your way back to life.
+3094|Rapid Firecannon|Movement builds charges that release a sieging fire attack on release
+3095|Stormrazor|Tremendously empower other Energized effects.
+3100|Lich Bane|Grants a bonus to next attack after spell cast
+3101|Stinger|Increased Attack Speed and Cooldown Reduction
+3102|Banshee's Veil|Periodically blocks enemy abilities
+3105|Aegis of the Legion|Grants Armor and Magic Resistance
+3107|Redemption|Activate to heal allies and damage enemies in an area
+3108|Fiendish Codex|Increases Ability Power and Cooldown Reduction
+3109|Knight's Vow|Partner with an ally to protect each other
+3110|Frozen Heart|Massively increases Armor and slows enemy basic attacks
+3111|Mercury's Treads|Increases Movement Speed and reduces duration of disabling effects
+3112|Guardian's Orb|Good starting item for mages
+3113|Aether Wisp|Increases Ability Power and Movement Speed
+3114|Forbidden Idol|Increases Heal and Shield Power, Mana Regeneration, and Cooldown Reduction
+3115|Nashor's Tooth|Increases Attack Speed, Ability Power, and Cooldown Reduction
+3116|Rylai's Crystal Scepter|Abilities slow enemies
+3117|Boots of Mobility|Greatly enhances Movement Speed when out of combat
+3123|Executioner's Calling|Overcomes enemies with high health gain
+3124|Guinsoo's Rageblade|Increases Attack Speed, Armor Penetration, and Magic Penetration
+3128|Deathfire Grasp|Activate to increase all magic damage dealt to an enemy champion
+3131|Sword of the Divine|Activate to gain 100% Critical Strike Chance for a short duration
+3133|Caulfield's Warhammer|Attack Damage and Cooldown Reduction
+3134|Serrated Dirk|Increases Attack Damage and Lethality
+3135|Void Staff|Increases magic damage
+3136|Haunting Guise|Increases magic damage
+3137|Dervish Blade|Activate to remove all debuffs and grant massive Movement Speed
+3139|Mercurial Scimitar|Activate to remove all crowd control debuffs and grant massive Movement Speed
+3140|Quicksilver Sash|Activate to remove all crowd control debuffs
+3142|Youmuu's Ghostblade|Activate to greatly increase Movement Speed
+3143|Randuin's Omen|Greatly increases defenses, activate to slow nearby enemies
+3144|Bilgewater Cutlass|Activate to deal magic damage and slow target champion
+3145|Hextech Revolver|Increases Ability Power. Deal bonus magic damage on attack periodically.
+3146|Hextech Gunblade|Increases Attack Damage and Ability Power, activate to slow a target
+3147|Duskblade of Draktharr|Deals additional physical damage when ambushing enemies
+3151|Liandry's Torment|Spell damage burns enemies for a portion of their Health
+3152|Hextech Protobelt-01|Activate to dash forward and unleash a fiery explosion
+3153|Blade of the Ruined King|Deals damage based on target's Health, can steal Movement Speed
+3155|Hexdrinker|Increases Attack Damage and Magic Resist
+3156|Maw of Malmortius|Grants bonus Attack Damage when Health is low
+3157|Zhonya's Hourglass|Activate to become invincible but unable to take actions
+3158|Ionian Boots of Lucidity|Increases Movement Speed and Cooldown Reduction
+3161|Spear of Shojin|Reduce damage taken from champions by a flat amount. Attack while near multiple enemy champions to increase this amount for a short time.
+3165|Morellonomicon|Increases magic damage
+3170|Moonflair Spellblade|Improves defense and reduces duration of disabling effects
+3172|Zephyr|Mobility and Tenacity
+3174|Athene's Unholy Grail|Deal damage to empower your heals and shields
+3175|Head of Kha'Zix|
+3179|Umbral Glaive|Provides trap and ward detection periodically
+3181|Sanguine Blade|When hunting lone enemy champions gain Attack Speed and Lethality
+3184|Guardian's Hammer|Good starting item for attackers
+3190|Locket of the Iron Solari|Activate to shield nearby allies from damage
+3191|Seeker's Armguard|Increases Armor and Ability Power
+3193|Gargoyle Stoneplate|Greatly increases defense near multiple enemies.
+3194|Adaptive Helm|Reduces damage from repeated spells and effects.
+3196|Hex Core mk-1|Allows Viktor to improve an ability of his choice
+3197|Hex Core mk-2|Allows Viktor to improve an ability of his choice
+3198|Perfect Hex Core|Allows Viktor to improve an ability of his choice
+3200|Prototype Hex Core|Increases Ability Power and can be upgraded to improve Viktor's abilities
+3211|Spectre's Cowl|Improves defense and grants regeneration upon being damaged
+3222|Mikael's Crucible|Activate to remove all disabling effects from an allied champion
+3285|Luden's Echo|Increases Ability Power, Mana, and Cooldown Reduction
+3330|Scarecrow Effigy (Trinket)|Periodically place a Stealth Ward
+3340|Warding Totem (Trinket)|Periodically place a Stealth Ward
+3348|Arcane Sweeper|Activate to reveal a nearby area of the map
+3361|Greater Stealth Totem (Trinket)|Periodically place a Stealth Ward
+3362|Greater Vision Totem (Trinket)|Periodically place a Vision Ward
+3363|Farsight Alteration|Grants increased range and reveals the targetted area
+3364|Oracle Lens|Disables nearby invisible wards and traps for a duration
+3371|Molten Edge|Massively enhances critical strikes
+3373|Forgefire Cape|Constantly deals damage to nearby enemies
+3374|Rabadon's Deathcrown|Massively increases Ability Power
+3379|Infernal Mask|Nearby enemies take more magic damage
+3380|Obsidian Cleaver|Dealing physical damage to enemy champions reduces their Armor
+3382|Salvation|Activate to heal allies and damage enemies in an area
+3383|Circlet of the Iron Solari|Activate to shield nearby allies from damage
+3384|Trinity Fusion|Tons of Damage
+3386|Zhonya's Paradox|Activate to become invincible but unable to take actions
+3387|Frozen Fist|Basic attacks create a slow field after spell cast
+3388|Youmuu's Wraithblade|Activate to greatly increase Movement Speed
+3389|Might of the Ruined King|Deals damage based on target's Health, can steal Movement Speed
+3390|Luden's Pulse|Increases Ability Power, Mana, and Cooldown Reduction
+3400|'Your Cut'|
+3410|Head of Kha'Zix|
+3416|Head of Kha'Zix|
+3422|Head of Kha'Zix|
+3455|Head of Kha'Zix|
+3504|Ardent Censer|Shield and heal effects on other units grant both of you Attack Speed and their attacks deal additional on-hit magic damage.
+3508|Essence Reaver|Grants Critical Strike Chance, Cooldown Reduction, Attack Damage and restores mana on hit.
+3513|Eye of the Herald|Eye of the Herald - a Gift of the Void.
+3514|Eye of the Herald|Eye of the Herald - a Gift of the Void.
+3520|Ghost Poro|
+3599|Black Spear|Kalista's spear that binds an Oathsworn Ally.
+3600|Black Spear|Kalista's spear that binds an Oathsworn Ally.
+3671|Enchantment: Warrior|
+3672|Enchantment: Cinderhulk|
+3673|Enchantment: Runic Echoes|
+3675|Enchantment: Bloodrazor|
+3680|Frosted Snax|King: Fires a barrage of icy artillery
+3681|Super Spicy Snax|King: Shoots flames that burn units and Turrets
+3682|Espresso Snax|King: Knocks back and grants a large shield
+3683|Rainbow Snax Party Pack!|King: Poros knock enemies towards him
+3684|Dawnbringer Snax|King: Fires you at your target
+3685|Nightbringer Snax|King: Summons tornadoes from behind, then fires them forward.
+3690|Cosmic Shackle|
+3691|Singularity Lantern|
+3692|Dark Matter Scythe|
+3693|Gravity Boots|
+3694|Cloak of Stars|
+3695|Dark Star Sigil|
+3706|Stalker's Blade|Lets your Smite slow Champions
+3715|Skirmisher's Sabre|Lets your Smite mark Champions, giving you combat power against them.
+3742|Dead Man's Plate|Build momentum as you move around then smash into enemies.
+3748|Titanic Hydra|Deals area of effect damage based on owner's health
+3751|Bami's Cinder|Grants Health and Immolate Aura
+3800|Righteous Glory|Grants Health, Mana, and Armor. Activate to speed towards enemies and slow them.
+3801|Crystalline Bracer|Grants Health and Health Regen
+3802|Lost Chapter|Restores Mana upon levelling up.
+3812|Death's Dance|Trades incoming damage now for incoming damage later
+3814|Edge of Night|Periodically blocks enemy abilities
+3850|Spellthief's Edge|Gain gold and upgrade by damaging enemy champions
+3851|Frostfang|
+3853|Shard of True Ice|
+3854|Steel Shoulderguards|Gain gold and upgrade by executing minions alongside allies
+3855|Runesteel Spaulders|
+3857|Pauldrons of Whiterock|
+3858|Relic Shield|Gain gold and upgrade by executing minions alongside allies
+3859|Targon's Buckler|
+3860|Bulwark of the Mountain|
+3862|Spectral Sickle|Gain gold and upgrade by damaging enemy champions
+3863|Harrowing Crescent|
+3864|Black Mist Scythe|
+3901|Fire at Will|Cannon Barrage gains extra waves
+3902|Death's Daughter|Cannon Barrage fires a mega-cannonball
+3903|Raise Morale|Cannon Barrage hastes allies
+3905|Twin Shadows|Increases Ability Power and Movement Speed
+3907|Spellbinder|Stores nearby spellcasts and can consume them to grant Movement Speed and Ability Power.
+3916|Oblivion Orb|Increases magic damage
+4001|Ghostwalkers (Melee Only)|Enhances Movement Speed and grants temporary wall walking.
+4003|Lifeline|Marks the ground, and returns you there after a few moments
+4004|Spectral Cutlass|Marks the ground, and returns you there after a few moments
+4101|Pridestalker's Blade|Kill monsters faster
+4102|Enchantment: Warrior|Tons of Damage
+4103|Enchantment: Cinderhulk|Increases bonus Health and burns nearby enemies
+4104|Enchantment: Runic Echoes|Spells explode for bonus damage
+4105|Enchantment: Bloodrazor|Attacks deal bonus damage based on the target's maximum Health
+4201|Doran's Lost Shield|Good defensive starting item
+4202|Doran's Lost Blade|Good starting item for attackers
+4203|Doran's Lost Ring|Good starting item for casters
+4204|Doran's Lost Idol|Good starting item for Enchanters
+4401|Force of Nature|Movement Speed, Magic Resist, and max Health Regeneration
+4402|Innervating Locket|Cast spells to heal
+4403|The Golden Spatula|It does EVERYTHING!
