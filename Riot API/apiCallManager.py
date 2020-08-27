@@ -1,10 +1,12 @@
+import os
+from dotenv import load_dotenv
 import time
 import requests
 import json
 
-f = open('apikey.txt','r')
-apikey=f.read()
-f.close()
+load_dotenv()
+
+apikey=os.getenv("RIOT_API_KEY")
 
 # RATE LIMITS
 # 20 requests every 1 seconds(s)
