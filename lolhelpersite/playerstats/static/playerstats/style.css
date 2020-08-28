@@ -1,3 +1,90 @@
 body {
     background: white url("images/background.png") no-repeat;
 }
+
+.vertical-align-container{
+    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
+    width: 1000px;
+    min-height: 500px;
+    margin: 0 auto;
+}
+
+.content-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.left-column-container{
+    display: flex;
+    flex-direction: column;
+
+    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
+    display: inline-block;
+    width: 300px;
+    font-size: 12px;
+    vertical-align: top;
+}
+
+.left-column-container .solo-rank-info-container{
+    font-size: 12px;
+    border: 1px solid #cdd2d2;
+    box-shadow: 0 1px #dcdfdf;
+    background: #f2f2f2;
+    border-radius: 2px;
+    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
+    margin-top: 10px;
+}
+
+.left-column-container .flex-rank-info-container{
+    font-size: 12px;
+    margin-top: 8px;
+    padding: 16px 0;
+    display: flex;
+    align-items: center;
+    background-color: #f2f2f2;
+    border: solid 1px #cdd2d2;
+    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
+}
+
+.left-column-container .champion-summary-container{
+    font-size: 12px;
+    border: 1px solid #cdd2d2;
+    box-shadow: 0 1px #dcdfdf;
+    background: #f2f2f2;
+    border-radius: 2px;
+    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
+    margin-top: 10px;
+}
+
+.right-column-container{
+    display: flex;
+    flex-direction: column;
+
+    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
+    display: inline-block;
+    width: 690px;
+    margin-left: 10px;
+    font-size: 12px;
+    vertical-align: top;
+}
+
+.right-column-container .summary-info-container{
+    font-size: 12px;
+    text-align: center;
+    margin-top: -1px;
+    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
+}
+
+.right-column-container .game-list-container{
+    font-size: 12px;
+    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
+    margin-top: 8px;
+}
+
+.right-column-container .game-list-container .game-info-container{
+    font-size: 12px;
+    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
+    position: relative;
+    border-radius: 3px;
+    margin-bottom: 8px;
+}

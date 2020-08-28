@@ -1,5 +1,62 @@
 {% load static %}
 
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ player.summonername }}</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'playerstats/style.css' %}">
+  </head>
+
+  <body>
+    {% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+
+    <div class="vertical-align-container">
+      <div class="content-container">
+        <div class="left-column-container">
+          <div class="solo-rank-info-container">
+            <a>solo rank</a>
+          </div>
+          <div class="flex-rank-info-container">
+            <a>flex rank</a>
+          </div>
+          <div class="champion-summary-container">
+            <a>champion summary</a>
+          </div>
+        </div>
+        <div class="right-column-container">
+          <div class="summary-info-container">
+            <a>summary</a>
+          </div>
+          
+          <div class="game-list-container">
+            <div class="game-info-container">
+              <a>game summary</a>
+            </div>
+            <div class="game-info-container">
+              <a>game summary</a>
+            </div>
+            
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+
+    <h2>{{ "Region: " }}{{ player.region }}</h2>
+    <h2>{{ "Rank: " }}{{ player.tier }}</h2>
+    <h2>{{ "LP: " }}{{ player.leaguepoints }}</h2>
+    <h2>{{ "Wins: " }}{{ player.wins }}</h2>
+    <h2>{{ "Losses: " }}{{ player.losses }}</h2>
+
+  </body>
+</html>
+<!-- 
+{% load static %}
+
 <link rel="stylesheet" type="text/css" href="{% static 'playerstats/style.css' %}">
 
 <h1>{{ player.summonername }}</h1>
@@ -10,4 +67,4 @@
 <h2>{{ "Rank: " }}{{ player.tier }}</h2>
 <h2>{{ "LP: " }}{{ player.leaguepoints }}</h2>
 <h2>{{ "Wins: " }}{{ player.wins }}</h2>
-<h2>{{ "Losses: " }}{{ player.losses }}</h2>
+<h2>{{ "Losses: " }}{{ player.losses }}</h2> -->
