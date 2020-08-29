@@ -1,90 +1,182 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-    background: white url("images/background.png") no-repeat;
+    background: white;
 }
 
-.vertical-align-container{
-    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
-    width: 1000px;
-    min-height: 500px;
-    margin: 0 auto;
-}
-
-.content-container{
+.row-container{
     display: flex;
     flex-direction: row;
 }
 
-.left-column-container{
+.vertical-align-container{
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    
+    box-sizing: border-box;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+    padding: 0;
+    margin-top: 1.5rem;
+}
+
+.content-container{
     display: flex;
     flex-direction: column;
 
-    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
-    display: inline-block;
-    width: 300px;
-    font-size: 12px;
-    vertical-align: top;
+    font-weight: 400;
+    text-align: left;
+    color: #000;
+    font-size: 14px;
+    font-family: Helvetica Neue,Helvetica,Malgun Gothic,-apple-system,Dotum,sans-serif;
+    line-height: 1.5;
 }
 
-.left-column-container .solo-rank-info-container{
-    font-size: 12px;
-    border: 1px solid #cdd2d2;
-    box-shadow: 0 1px #dcdfdf;
-    background: #f2f2f2;
-    border-radius: 2px;
-    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
-    margin-top: 10px;
-}
-
-.left-column-container .flex-rank-info-container{
-    font-size: 12px;
-    margin-top: 8px;
-    padding: 16px 0;
-    display: flex;
-    align-items: center;
-    background-color: #f2f2f2;
-    border: solid 1px #cdd2d2;
-    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
-}
-
-.left-column-container .champion-summary-container{
-    font-size: 12px;
-    border: 1px solid #cdd2d2;
-    box-shadow: 0 1px #dcdfdf;
-    background: #f2f2f2;
-    border-radius: 2px;
-    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
-    margin-top: 10px;
-}
-
-.right-column-container{
-    display: flex;
-    flex-direction: column;
-
-    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
-    display: inline-block;
-    width: 690px;
-    margin-left: 10px;
-    font-size: 12px;
-    vertical-align: top;
-}
-
-.right-column-container .summary-info-container{
-    font-size: 12px;
-    text-align: center;
-    margin-top: -1px;
-    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
-}
-
-.right-column-container .game-list-container{
-    font-size: 12px;
-    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
-    margin-top: 8px;
-}
-
-.right-column-container .game-list-container .game-info-container{
-    font-size: 12px;
-    font-family: "Helvetica Neue",Helvetica,"Apple SD Gothic Neo",AppleGothic,Dotum,Arial,Tahoma;
+.player-info-navbar-container{
     position: relative;
-    border-radius: 3px;
+    background: url("images/background.png") no-repeat;
+    background-size: cover;
+}
+
+.player-info-navbar{
+    background-color: black;
+    opacity: 0.6;
+}
+
+.player-info-navbar .info-container{
+    color: #fff;
+    padding: 26px 24px 18px;
+}
+
+.player-info-navbar .info-container .previous-rank{
     margin-bottom: 8px;
 }
+
+.player-info-navbar .info-container .previous-rank a{
+    padding: 5px 8px;
+    font-size: 12px;
+    color: #d0d0d0;
+    border: 1px solid #d0d0d0;
+    line-height: 1;
+}
+
+.player-info-navbar .info-container .summary-info{
+    display: flex;
+    flex-direction: column;
+
+    line-height: 1;
+}
+
+.player-info-navbar .info-container .summary-info .ladder-rank-info{
+    color: #d6d6d6;
+    font-size: 12px;
+}
+
+.player-info-navbar .info-container .summary-info .summoner-name-info{
+    display: flex;
+    flex-direction: row;
+    
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.player-info-navbar .info-container .summary-info .summoner-name-info .summoner-name{
+    align-self: center;
+
+    margin-top: 6px;
+    margin-right: 2px;
+    line-height: 1;
+    letter-spacing: -1px;
+    font-size: 20px;
+    margin-bottom: 14px;
+}
+
+.player-info-navbar .info-container .summary-info .summoner-name-info .region{
+    align-self: center;
+    
+    font-size: 12px;
+    padding: 3px 5px;
+    vertical-align: text-top;
+    background-color: grey;
+    border-radius: 2px;
+    height: 18px;
+}
+
+.player-info-navbar .info-container .summary-info .buttons-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.player-info-navbar .info-container .summary-info .buttons-container .update-button{  
+    margin: 0;
+    width: auto;
+    overflow: visible;
+    background: transparent;
+    font: inherit;
+    -webkit-font-smoothing: inherit;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    line-height: 1.5;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    min-width: 105px;
+    border-radius: 0;
+    box-shadow: none;
+    transition: none;
+    height: 40px;
+    font-size: 14px;
+    margin-right: 6px;
+    cursor: pointer;
+}
+
+.player-info-navbar .info-container .summary-info .buttons-container .favourite-button{
+    margin: 0;
+    width: auto;
+    overflow: visible;
+    background: transparent;
+    font: inherit;
+    -webkit-font-smoothing: inherit;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+    padding: .375rem .75rem;
+    line-height: 1.5;
+    background-color: transparent;
+    color: #ffc528;
+    border: 1px solid #ffc528;
+    min-width: 105px;
+    border-radius: 0;
+    box-shadow: none;
+    transition: none;
+    height: 40px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.player-info-navbar .info-container .summary-info .last-updated{
+    font-weight: 400;
+    text-align: left;
+    font-family: Helvetica Neue,Helvetica,Malgun Gothic,-apple-system,Dotum,sans-serif;
+    line-height: 1;
+    display: block;
+    color: #999;
+    font-size: 12px;
+    margin-top: 6px;
+}
+

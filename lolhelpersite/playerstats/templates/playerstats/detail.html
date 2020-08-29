@@ -15,32 +15,68 @@
 
     <div class="vertical-align-container">
       <div class="content-container">
-        <div class="left-column-container">
-          <div class="solo-rank-info-container">
-            <a>solo rank</a>
-          </div>
-          <div class="flex-rank-info-container">
-            <a>flex rank</a>
-          </div>
-          <div class="champion-summary-container">
-            <a>champion summary</a>
+        <div class="player-info-navbar-container">
+          <div class="player-info-navbar">
+            <div class="info-container">
+              <div class="row-container">
+                <div class="previous-rank">
+                  <a>Sample Text:</a>
+                  <a>S8 Challenger</a>
+                  <a>S9 Iron IV</a>
+                </div>
+              </div>
+
+              <div class="row-container">
+                <div class="summoner-icon">
+                  
+                </div>
+
+                <div class="summary-info">
+                  <div class="ladder-rank-info">
+                    Ladder rank 1 (0.0001% of top)
+                  </div>
+                  <div class="summoner-name-info">
+                    <div class="summoner-name">
+                      {{ player.summonername }}
+                    </div>
+                    <div class="region">
+                      {{ player.region }}
+                    </div>
+                  </div>
+                  <div class="buttons-container">
+                    <div class="update-button">
+                      update
+                    </div>
+                    <div class="favourite-button">
+                      favourite
+                    </div>
+                  </div>
+                  <div class="last-updated">
+                    Last updated: 1 second ago
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="menu">
+
+            </div>
           </div>
         </div>
-        <div class="right-column-container">
-          <div class="summary-info-container">
-            <a>summary</a>
-          </div>
-          
-          <div class="game-list-container">
-            <div class="game-info-container">
-              <a>game summary</a>
-            </div>
-            <div class="game-info-container">
-              <a>game summary</a>
-            </div>
-            
-          </div>
 
+        <div class="ranked-info-container">
+          <a>ranked-info-container</a>
+        </div>
+
+        <div class="stats-by-champion-container">
+          <a>stats-by-champion-container</a>
+        </div>
+
+        <div class="match-history-container">
+          <a>match-history-container</a>
+        </div>
+
+        <div class="recently-played-with-container">
+          <a>recently-played-with-container</a>
         </div>
       </div>
 
