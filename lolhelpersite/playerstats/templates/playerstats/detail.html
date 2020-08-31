@@ -27,11 +27,11 @@
               </div>
 
               <div class="row-container">
-                <div class="summoner-icon">
-                  
+                <div class="summoner-icon-container">
+
                 </div>
 
-                <div class="summary-info">
+                <div class="account-summary-info">
                   <div class="ladder-rank-info">
                     Ladder rank 1 (0.0001% of top)
                   </div>
@@ -58,13 +58,129 @@
               </div>
             </div>
             <div class="menu">
-
+              <div class="overview">
+                overview
+              </div>
+              <div class="live-game">
+                live game
+              </div>
             </div>
           </div>
         </div>
 
-        <div class="ranked-info-container">
-          <a>ranked-info-container</a>
+        <div class="match-summary-info-container">
+
+          <div class="ranked-container">
+            <div class="solo-ranked-info-container">
+              <div class="crest-container">
+                <div class="rank-solo-crest">
+
+                </div>
+              </div>
+              
+              <div class="text-container">
+                <div class="game-mode">
+                  Ranked solo
+                </div>
+                <div class="player-tier-container">
+                  <div class="player-tier">
+                    {{ player.tier }}
+                  </div>
+                  <div class="player-lp">
+                    {{ player.leaguepoints }}{{ " LP" }}
+                  </div>
+                </div>
+                <div class="player-winrate-container">
+                  <div class="player-winrate">
+                    {{ "Winrate 69.0% " }}
+                  </div>
+                  <div class="player-win-loss-ratio">
+                    {{ "(" }}{{ player.wins }}{{ "W " }}{{ player.losses }}{{ "L)" }}
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="flex-ranked-info-container">
+              <div class="crest-container">
+                <div class="rank-flex-crest">
+
+                </div>
+              </div>
+              
+              <div class="text-container">
+                <div class="game-mode">
+                  Ranked solo
+                </div>
+                <div class="player-tier-container">
+                  <div class="player-tier">
+                    {{ player.tier }}
+                  </div>
+                  <div class="player-lp">
+                    {{ player.leaguepoints }}{{ " LP" }}
+                  </div>
+                </div>
+                <div class="player-winrate-container">
+                  <div class="player-winrate">
+                    {{ "Winrate 69.0% " }}
+                  </div>
+                  <div class="player-win-loss-ratio">
+                    {{ "(" }}{{ player.wins }}{{ "W " }}{{ player.losses }}{{ "L)" }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <div class="tier-graph-wrapper">
+            <div class="tier-graph-container">
+              <div class="tier-graph-header">
+                Tier Graph
+              </div>
+              <div class="tier-graph-diagram">
+                a diagram of tier vs time goes here
+              </div>
+            </div>
+          </div>
+
+          <div class="other-game-mode-wrapper">
+            <div class="other-game-mode-container">
+              <div class="game-mode-container">
+                <div class="game-mode-title">
+                  ARAM
+                </div>
+                <div class="game-mode-stats">
+                  <div class="winrate">
+                    <div class="text">Winrate </div>
+                    <div class="win-percentage">
+                      {{ "69.0% " }}
+                    </div>
+                  </div>
+                  <div class="player-win-loss-ratio">
+                    {{ "420W 69L" }}
+                  </div>
+                </div>
+              </div>
+
+              <div class="game-mode-container">
+                <div class="game-mode-title">
+                  URF
+                </div>
+                <div class="game-mode-stats">
+                  <div class="winrate">
+                    <div class="text">Winrate </div>
+                    <div class="win-percentage">
+                      {{ "69.0% " }}
+                    </div>
+                  </div>
+                  <div class="player-win-loss-ratio">
+                    {{ "420W 69L" }}
+                  </div>
+                </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
 
         <div class="stats-by-champion-container">
@@ -82,11 +198,7 @@
 
     </div>
 
-    <h2>{{ "Region: " }}{{ player.region }}</h2>
-    <h2>{{ "Rank: " }}{{ player.tier }}</h2>
-    <h2>{{ "LP: " }}{{ player.leaguepoints }}</h2>
-    <h2>{{ "Wins: " }}{{ player.wins }}</h2>
-    <h2>{{ "Losses: " }}{{ player.losses }}</h2>
+
 
   </body>
 </html>
